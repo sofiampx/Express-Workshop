@@ -1,0 +1,25 @@
+{
+  "name": "step01",
+  "version": "1.0.0",
+  "description": "Welcome! This is a Express repository. Well is a repository that is used to guide new joiners on Express JS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.18.2"
+  },
+  "dependencies": {
+    "hellojs": "^1.20.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sofiampx/Express-Workshop.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sofiampx/Express-Workshop/issues"
+  },
+  "homepage": "https://github.com/sofiampx/Express-Workshop#readme"
+}
